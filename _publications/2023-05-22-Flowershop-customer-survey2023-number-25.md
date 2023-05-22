@@ -1,5 +1,5 @@
---- 
-title: "花店利用者調査 2023年～利用状況と顧客評価  Flower shop customer survey 2023 Japan: Purchasing behaviour and customer evaluations"
+---
+title: "花店利用者調査 2023年～利用状況と顧客評価 Flower shop customer survey 2023 Japan: Purchasing behaviour and customer evaluations"  
 collection: publications
 permalink: /publication/2023-05-22-Flowershop-customer-survey2023-number-25
 excerpt: '「花店利用者調査」2023年版では、花・植物の小売に関わる4つ企業を対象に、最近1年間の利用者全500名に、利用状況や評価を尋ねた（2023年1月実施）。  
