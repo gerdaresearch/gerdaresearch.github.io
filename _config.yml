@@ -308,3 +308,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+markdown: GFM
+kramdown:
+  parse_block_html: true
+  
