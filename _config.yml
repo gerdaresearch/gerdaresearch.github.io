@@ -309,7 +309,9 @@ compress_html:
   ignore:
     envs: development
 
-markdown: GFM
+# markdown: GFM
+markdown: kramdown
 kramdown:
   parse_block_html: true
-  
+  input: GFM
+  hard_wrap: false 
