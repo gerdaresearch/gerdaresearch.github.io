@@ -1,5 +1,5 @@
 ---
-title: "花の消費選好 （旧「花の消費動向」後継調査）2024年 Flower Consumption Japan 2024"
+title: "花の消費選好 2024年（旧「花の消費動向」後継調査） Flower Consumption Japan 2024"
 collection: publications 
 permalink: /publication/2024-11-30-Flower-consumption-survey2024-number-28
 excerpt: '日本の花・植物の購入状況（時系列）、環境意識、価格感度について調査報告。2024年8月実施。継続データに加え、物流問題対応の手掛かりとして、需要平準化につながるカジュアルギフトに焦点を当て、規格や商品への生活者のニーズを調べた。  
@@ -7,7 +7,7 @@ Flower Consumption Japan, 2024 Edition. This paper covers the following topics: 
 Funded by the Japanese Ministry of Agriculture, Forestry and Fisheries, as part of the Japan Flower Enhancement Project Promotion Program (FY2024).'
 venue: '寄稿'
 paperurl: ''
-citation: '青木恭子(2024)「花の消費選好2024」国産花き生産流通強化推進協議会'
+citation: '青木恭子(2024)「花の消費選好2024年」国産花き生産流通強化推進協議会'
 ---
 
 [Japanese]   
