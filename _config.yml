@@ -312,6 +312,6 @@ compress_html:
 # markdown: GFM
 markdown: kramdown
 kramdown:
-  parse_block_html: true
+  parse_block_html: false
   input: GFM
   hard_wrap: false 
