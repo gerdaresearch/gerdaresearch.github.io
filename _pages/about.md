@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-環境認証、オーガニック、花・園芸植物に関するリサーチ。効果検証、利用者調査、顧客満足度、基準認証政策の評価などを行ってきました。このサイトでは、過去の調査・分析のアーカイブを遺しています。年々予算削減の折、花関係の調査分析は、2023年度を最後に打ち切りとなりました。長い間ご覧いただき、ありがとうございました。  
+環境認証、オーガニック、花・園芸植物に関するリサーチ。効果検証、利用者調査、顧客満足度、基準認証政策の評価などを行ってきました。このサイトでは、過去の調査・分析のアーカイブを遺しています。年々予算削減の折、花関係の調査分析は、「2023年度」を最後に打ち切りとさせていただきました。長い間ご覧いただき、ありがとうございました。  
 東京、ロンドン、新宿、大久保、中南米（ブラジル・オウロプレートetc）など各地に在住後、認知症介護のため東京と某辺境往復。耕作放棄地と里山放置林の負の遺産生理、林の伐採をしています。地方格差、農村から人が離れていくわけが、骨身に沁みてよくわかりました。  
 Gerda Research by Aoki Kyoko. Main research fields: Assessment of policy effectiveness,  market surveys, customer satisfaction survey, sustainability standards and certifications strategies, in the fields of organic, alternative protein, floral and horticultural market.   
 Besides, I have been tackling the rehabilitation of the abandoned farmlands and the neglected satoyama forests.
