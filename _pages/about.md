@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Gerda Research（ゲルダ・リサーチ）"
-excerpt: "環境認証、オーガニック、花・園芸植物に関するリサーチ。効果検証、利用者調査、顧客満足度、基準認証政策の評価などを行ってきました。過去の調査、著作やデータのアーカイブを、このサイトに残しています。
+excerpt: "環境認証、オーガニック、花・園芸植物に関するリサーチ。効果検証、利用者調査、顧客満足度、基準認証政策の評価などを行ってきました。担当した調査の解説、著作やデータのアーカイブを、このサイトに掲載しています。
 Gerda Research. Research Focus: Market surveys, consumer research focusing on organic markets, alternative proteins, policy effectiveness assessment, floral and horticultural sectors, with particular emphasis on sustainability issues.
 Lived in: Tokyo - London - Okubo, Shinjuku - Ouro Preto (Brazil) - local cities across Latin America - rural areas in Japan
 Personal:Lifetime vegetarian. Rehabilitating abandoned farmland and neglected forests using basic tools (chainsaw & hoes). Currently transitioning to rewilding approach. Embracing emergence of new wilderness."
@@ -17,10 +17,10 @@ Personal: Lifetime vegetarian. Rehabilitating abandoned farmland and neglected f
 <br>
 
 環境認証、オーガニック、花・園芸植物に関するリサーチ。効果検証、利用者調査、顧客満足度、基準認証政策の評価などを行ってきました。  
-このサイトでは、過去の調査・分析のうち、公開可能なものの一部を解説、アーカイブとしています。  
+このサイトでは、過去の仕事のうち、公開可能なものの一部を解説、アーカイブとしています。  
 
 <br>
-東京、ロンドン、新宿、大久保、中南米（ブラジル・オウロプレートetc）など各地に在住。その後、田舎に移住した知人の認知症介護のため、東京と見知らぬ某辺境往復生活。耕作放棄地草刈り、チェーンソーで放置林の伐採と、負の遺産整理の処理。地方格差、農村から女性が離れていくわけが、骨身に沁みてよくわかりました。困難な地方からは撤退し、土地は自然に戻す（という言い方が可能なら）、New Wild の時代だと感じています。  
+東京、ロンドン、新宿、大久保、中南米（ブラジル・オウロプレートetc）など各地に在住。その後、田舎に移住した知人の認知症介護のため、東京と見知らぬ某辺境往復生活。耕作放棄地草刈り、チェーンソーで放置林の伐採と、負の遺産整理の処理。地方格差、農村から女性が離れていくわけが、骨身に沁みてよくわかりました。今は土地は自然に戻す（という言い方が可能なら）、New Wild の時代だと感じています。  
 <br>
 
 This is Gerda Research's home on the web.  
