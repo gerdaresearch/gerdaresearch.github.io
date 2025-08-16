@@ -20,7 +20,7 @@ Personal: Lifetime vegetarian. Rehabilitating abandoned farmland and neglected f
 このサイトでは、過去の仕事のうち、公開可能なものの一部を解説、アーカイブとしています。  
 
 <br>
-東京、ロンドン、新宿、大久保、中南米（ブラジル・オウロプレートetc）など各地に在住。その後、移住者の認知症介護支援で、東京と見知らぬ遠隔地との往復生活。耕作放棄地、放置林の等々。今は農村から撤退、土地は自然に委ね、New Wild の時代へ。  
+東京、ロンドン、新宿、大久保、中南米（ブラジル・オウロプレートetc）など各地に在住。その後、移住者の認知症介護支援で、東京と見知らぬ遠隔地農村との往復生活。耕作放棄地・放置林の管理・伐採等々、山中で働く。土地は自然に委ね、New Wild へ。  
 <br>
 
 This is Gerda Research's home on the web.  
