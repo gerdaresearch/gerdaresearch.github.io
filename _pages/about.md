@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Gerda Research（ゲルダ・リサーチ）"
-excerpt: "環境認証、オーガニック、花・園芸植物に関するリサーチ。効果検証、利用者調査、顧客満足度、基準認証政策の評価などを行ってきました。担当した調査の解説、著作やデータのアーカイブを、このサイトに掲載しています。
+excerpt: "環境認証、オーガニック、花・園芸植物に関するリサーチ。効果検証、利用者調査、顧客満足度、基準認証政策の評価など。担当した調査の解説、著作やデータのアーカイブを、このサイトに掲載。
 Gerda Research. Research Focus: Market surveys, consumer research focusing on organic markets, alternative proteins, policy effectiveness assessment, floral and horticultural sectors, with particular emphasis on sustainability issues.
 Lived in: Tokyo - London - Okubo, Shinjuku - Ouro Preto (Brazil) - local cities across Latin America - rural areas in Japan
 Personal:Lifetime vegetarian. Rehabilitating abandoned farmland and neglected forests using basic tools (chainsaw & hoes). Currently transitioning to rewilding approach. Embracing emergence of new wilderness."
@@ -16,11 +16,11 @@ Lived in: Tokyo - London - Okubo, Shinjuku - Ouro Preto (Brazil) + rural areas a
 Personal: Lifetime vegetarian. Rehabilitating abandoned farmland and neglected forests using basic tools (chainsaw & hoes). Currently transitioning to rewilding approach. Embracing emergence of new wilderness.  
 <br>
 
-環境認証、オーガニック、花・園芸植物に関するリサーチ。効果検証、利用者調査、顧客満足度、基準認証政策の評価などを行ってきました。  
-このサイトでは、過去の仕事のうち、公開可能なものの一部を解説、アーカイブとしています。  
+環境認証、オーガニック、花・園芸植物に関するリサーチ。効果検証、利用者調査、顧客満足度、基準認証政策の評価など。  
+著者は 故人（2025年没）。このサイトでは、過去の仕事のうち、公開可能なものの一部を解説、アーカイブ。  
 
 <br>
-東京、ロンドン、新宿、大久保、中南米（ブラジル・オウロプレートetc）など各地に在住。その後、移住者の認知症介護支援で、東京と見知らぬ遠隔地農村との往復生活。耕作放棄地・放置林の管理・伐採等々、山中で働く。土地は自然に委ね、New Wild へ。  
+東京、ロンドン、新宿、大久保、中南米（ブラジル・オウロプレートetc）など各地に在住。その後、移住者の認知症介護支援、耕作放棄地・放置林の管理等々、山中で働く。New Wild。  
 <br>
 
 This is Gerda Research's home on the web.  
