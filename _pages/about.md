@@ -21,7 +21,7 @@ Personal: Lifetime vegetarian. Rehabilitating abandoned farmland and neglected f
 ※ 著者は 故人。  
 
 <br>
-東京、ロンドン、新宿、大久保、中南米（ブラジル・オウロプレートetc）など各地に在住。その後、移住者の認知症介護支援、耕作放棄地・放置林の管理等々、山中で働く。New Wild。 2025年没。   
+東京、ロンドン、新宿、大久保、中南米（ブラジル・オウロプレートetc）など各地に在住。その後、移住者の認知症介護支援、耕作放棄地・放置林の管理等々、山中で働く。New Wild。 ※ 2025年没。   
 <br>
 
 This is Gerda Research's home on the web.  
