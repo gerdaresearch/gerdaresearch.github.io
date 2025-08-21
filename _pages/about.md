@@ -4,7 +4,7 @@ title: "Gerda Research（ゲルダ・リサーチ）"
 excerpt: "環境認証、オーガニック、花・園芸植物に関するリサーチ。効果検証、利用者調査、顧客満足度、基準認証政策の評価など。担当した調査の解説、著作やデータのアーカイブを、このサイトに掲載。
 Gerda Research. Research Focus: Market surveys, consumer research focusing on organic markets, alternative proteins, policy effectiveness assessment, floral and horticultural sectors, with particular emphasis on sustainability issues.
 Lived in: Tokyo - London - Okubo, Shinjuku - Ouro Preto (Brazil) - local cities across Latin America - rural areas in Japan
-Personal:Lifetime vegetarian. Rehabilitating abandoned farmland and neglected forests using basic tools (chainsaw & hoes). New wilderness. Deceased　(2025)
+Personal: Lifetime vegetarian. Rehabilitating abandoned farmland and neglected forests using basic tools (chainsaw & hoes). New wilderness. Deceased 2025.
 author_profile: true
 redirect_from: 
   - /about/
